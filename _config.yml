@@ -1,6 +1,6 @@
 full_rebuild: true
-name: Docster Documentation
-author: DigitalMind
+name: How we work at Red Panthers
+author: Red Panthers Team
 version: V 1.0
 encoding: utf-8
 defaults:
