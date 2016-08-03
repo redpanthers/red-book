@@ -7,7 +7,7 @@ parent-id: how
 number: 2001
 ---
 
-**communication** is key for any organization. We feel that its our responsibility to have our clients and team members involved in our communication and decisions as much as possible. Thus we employ multiple tools for this purpose.
+**communication** is key for any organization. We feel that its our responsibility to have our clients and team members involved in our discussions and decisions. Thus we employ multiple tools for this purpose.
 
  
  **Text**
