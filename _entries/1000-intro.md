@@ -6,7 +6,16 @@ number: 1000
 is-parent: yes
 ---
 
-We are a software development company, who specializes and loves working with Ruby on Rails & JavaScript. This documents 
-contains a list of conventions we follow in our development process. These conventions speeds up our development and free our 
-thoughts to concentrate more on solving our clients problems. 
+We are a software development company that loves to
+```
+  * contributing to open source
+  * share what ever we learn through our blog
+  * grow the local community by organizing meetups and workshops
+  * admire & appreciate good code like a good painting
+```
 
+**Our golden rules (no panther should ever forget them)**
+
+* Be Nice
+
+* Don't screw our clients
