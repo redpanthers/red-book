@@ -20,9 +20,16 @@ number: 2001
 
  
  **Text**
- [Slack](slack.com) is our tool for text communication. Red Panthers, internal communication would be happening at https://redpanthers.slack.com. 
+ [Slack](slack.com) is our tool for text communication. Red Panthers, internal communication would be happening at https://redpanthers.slack.com.
 
 For each of our clients, we make a slack account in their name (if they don't have one), for example: **clientname.slack.com**. We would also set all the external services to send notification to the clients slack.
+
+Also read:
+
+* [Formatting your messages](https://get.slack.help/hc/en-us/articles/202288908-Formatting-your-messages)
+* [Creating a snippet](https://get.slack.help/hc/en-us/articles/204145658-Creating-a-snippet)
+* [Composing a post](https://get.slack.help/hc/en-us/articles/203950418-Composing-a-post)
+* [Setting Reminders](https://get.slack.help/hc/en-us/articles/208423427-Setting-reminders)
 
 **Video & Audio**
 Skype is our tool of choice for video & audio chats. It is mandatory for us to have a group team meeting with client at least once a week. Daily one on one meeting can be scheduled as and when necessary. Always try to have a synchronous form of communication when you find yourself with a lot of questions while reading the project requirements or while reviewing the code.
