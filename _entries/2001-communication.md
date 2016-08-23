@@ -18,7 +18,7 @@ number: 2001
 
 ### Tools
 
- 
+
  **Text**
  [Slack](slack.com) is our tool for text communication. Red Panthers, internal communication would be happening at https://redpanthers.slack.com.
 
@@ -34,18 +34,4 @@ Also read:
 **Video & Audio**
 Skype is our tool of choice for video & audio chats. It is mandatory for us to have a group team meeting with client at least once a week. Daily one on one meeting can be scheduled as and when necessary. Always try to have a synchronous form of communication when you find yourself with a lot of questions while reading the project requirements or while reviewing the code.
 
-### Open Communication
-
-To make sure that all the members of the team are aware on what everyone else is working on, it is important to keep an open 
-channel of communication we enforce within our company that no communication should happen via direct messages. We should always talk to public channels or groups. Asking doubts or discussing features in the public channel help to provide others point of view into your discussion as well. 
-
-So always be open and share with everyone. 
-
-
-**Popular channels and their purpose**
-
-* #general - to talk stuff in general related to our team
-* #events - this is where we post details of the events we have
-* #random - this is where you post something if you don't know which other channel it should go to. eg: talk about a movie you watched, your plans for the weekend, etc
-* group: you-name-official - this is where you want to talk something confidential directly with the founders
 
