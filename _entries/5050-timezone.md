@@ -27,3 +27,5 @@ number: 5050
 * Time.zone.parse("2015-07-04 17:05:37")
 * Time.strptime(string, "%Y-%m-%dT%H:%M:%S%z").in_time_zone
 ```
+
+You can read more about it from our [blog](http://blog.redpanthers.co/working-timezones-rails/)
