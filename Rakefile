@@ -30,6 +30,11 @@ title: #{info[:title]}
   File.open(path, 'w') { |f| f << text }
 end
 
+task :deploy do
+  `git push origin master`
+  `git push origin master:gh-pages`
+end
+
 def get_info(qns)
   qns.map { |k, qn|
     [k, ask("#{qn}: ")]
