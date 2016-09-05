@@ -6,16 +6,19 @@ number: 1000
 is-parent: yes
 ---
 
-The goal of this document is help ourselves be more productive, by having opinons and conventions, helps us spend less time on 
-things that doesn't matter and more time on things that matter.  Thus we can achive more in less time, giving us time to work on 
-ourselves :). 
+Red Panther is an opiniated company, having opinions on how we work help us be more productive. It lets us spend less time on things that doesn't matter and more time on things that matter.
 
-Red Panthers is a dev shop that loves to
+It give us more time to work on ourselves.
+
+
+**Our DNA**
+
+We are a dev shop that loves
 ```
   * contributing to open source
-  * share what ever we learn through our blog
-  * grow the local community by organizing meetups and workshops
-  * admire & appreciate good code like a good painting
+  * shareing what ever we learn through our blog
+  * developing the local community by organizing meetups and workshops
+  * admiring & appreciating good code like a good painting
 ```
 
 **Our golden rules (no panther should ever forget them)**
