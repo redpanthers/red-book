@@ -1,7 +1,7 @@
 ---
 sectionid: code-reviews
 sectionclass: h1
-title: Code Review
+title: Code Reviews
 number: 4000
 ---
 
