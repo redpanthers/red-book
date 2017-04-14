@@ -10,7 +10,7 @@ The following list of softwares, needs to be installed.
 
 **Work Machine**
 
- - [Teamviewer](https://www.teamviewer.com/en/download/mac/) 
+ - [Teamviewer](https://www.teamviewer.com/en/download) 
  - [Hubstaff](https://app.hubstaff.com/download)
 
 **Work Machine & Phone**
